@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(220,220, 220);
+}
+.header {
+    background-color: rgb(255, 160, 160);
+    font-family: Arial, "Times New Roman", sans-serif;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.list,
+.para {
+    font-family: Georgia, sans-serif;
+    font-size: 16px;
+}
+
+.para {
+    color: rgb(15,15,15);
+}
+
+.link {
+    font-weight: bold;
+}
+
+.center {
+    text-align: center;
+}
+
+.border {
+    border-bottom: 2px dotted black;
+}
+
+.list {
+    border-radius: 10px;
+    background-color: rgb(200, 200, 200);
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
