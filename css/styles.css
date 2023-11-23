@@ -1,6 +1,15 @@
 body {
     background-color: rgb(220,220, 220);
 }
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    border: 3px solid rgb(197, 106, 176);
+    border-radius: 20px;
+    padding: 20px;
+}
+
 .header {
     background-color: rgb(255, 160, 160);
     font-family: Arial, "Times New Roman", sans-serif;
@@ -35,4 +44,22 @@ body {
     background-color: rgb(200, 200, 200);
     padding-top: 2px;
     padding-bottom: 2px;
+}
+
+.imgs {
+    margin: 0 auto;
+    display: block;
+}
+
+.btn {
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+    border-color: rgb(197, 106, 176);
+    background-color: rgb(255, 160, 160);
+}
+
+.btn a {
+    color: black;
+    font-weight: bold;
 }
